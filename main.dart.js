@@ -85288,7 +85288,7 @@ return null},
 $S:0}
 A.HH.prototype={
 L(a){var s=null
-return A.Me(A.Ys(s,A.aq("Daily Report Management",s,s,s,s,s,s,s)),A.qK(A.b([new A.cQ(new A.aM(8,8,8,8),A.av3(!0,B.d6,!1,s,!0,B.a1,s,A.aLv(),s,s,s,s,s,s,2,A.aoH(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Search",s,A.fc(B.mY,s,s,s),s,s,s,s,s,s,s,s,s,s,s),B.am,!0,s,!0,s,!1,s,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,new A.a_l(),s,s,s,!1,s,!1,s,!0,s,B.mu,s,s,B.cT,B.c2,s,s,s,s,s,s,s,B.b5,s,B.yF,s,s,s,s),s),A.aon(new A.fY(new A.a_m(this),s))],t.p),B.av,B.aO,B.bg))}}
+return A.Me(A.Ys(s,A.aq("Daily Report Management - Page",s,s,s,s,s,s,s)),A.qK(A.b([new A.cQ(new A.aM(8,8,8,8),A.av3(!0,B.d6,!1,s,!0,B.a1,s,A.aLv(),s,s,s,s,s,s,2,A.aoH(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Search",s,A.fc(B.mY,s,s,s),s,s,s,s,s,s,s,s,s,s,s),B.am,!0,s,!0,s,!1,s,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,new A.a_l(),s,s,s,!1,s,!1,s,!0,s,B.mu,s,s,B.cT,B.c2,s,s,s,s,s,s,s,B.b5,s,B.yF,s,s,s,s),s),A.aon(new A.fY(new A.a_m(this),s))],t.p),B.av,B.aO,B.bg))}}
 A.a_l.prototype={
 $1(a){},
 $S:58}
